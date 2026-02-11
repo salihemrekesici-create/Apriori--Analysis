@@ -1,5 +1,5 @@
 # Apriori Analizi
-Excel verileri üzerinde Apriori algoritması kullanarak support, confidence ve lift analizi yapan Streamlit tabanlı bir veri madenciliği uygulaması.
+
 
 Bu proje, Excel veri setleri üzerinde **Apriori birliktelik kuralı analizi**
 yapmak için geliştirilmiş **Streamlit tabanlı bir veri madenciliği uygulamasıdır**.
