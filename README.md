@@ -30,6 +30,18 @@ daha kolay yorumlayabilmesi için çeşitli grafikler ile sunulmaktadır:
 -  **Histogram Grafiği**
 -  **Support-Confidence Grafiği**  
 -  **Ağ (Network) Grafiği**
+
+## Kullanılan Kütüphaneler
+- pandas: Veri okuma ve işleme
+- streamlit: Web arayüzü ve kullanıcı etkileşimi
+- mlxtend: Apriori algoritması ve birliktelik kuralları
+- matplotlib: Histogram ve saçılım grafikleri
+- networkx: Birliktelik kurallarının ağ grafiği ile gösterimi
+
+
+
+
+
   
 
 ## Kurulum ve Çalıştırma
